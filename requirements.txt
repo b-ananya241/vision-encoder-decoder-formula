@@ -1,0 +1,6 @@
+torch
+transformers
+tokenizers
+pandas
+numpy
+pillow
